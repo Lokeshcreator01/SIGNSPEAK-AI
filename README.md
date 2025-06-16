@@ -59,22 +59,12 @@ pip install -r requirements.txt
 
 > ⚠️ GitHub does not allow files >100MB. Download the `model.safetensors` separately:
 
-1. [📥 Download model from Google Drive](https://drive.google.com/your-model-link)
+1. [📥 Download model from Google Drive]([https://drive.google.com/your-model-link](https://drive.google.com/file/d/1cOjtZJYjlc2pQMVYVueTjK99NLds4VTx/view?usp=sharing))
 2. Place it under:  
    `Mobile App Server/asl_gloss500_t5/model.safetensors`
 
 ---
 
-### ▶️ Run Flask Server (optional)
-
-If you're using a backend for inference:
-
-```bash
-cd "Mobile App Server"
-python app.py
-```
-
----
 
 ### 📱 Build Android App (using Buildozer)
 
