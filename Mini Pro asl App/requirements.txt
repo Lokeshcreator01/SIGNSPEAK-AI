@@ -1,0 +1,4 @@
+kivy==2.1.0
+sounddevice==0.4.1
+requests==2.26.0
+opencv-python==4.5.5.64
