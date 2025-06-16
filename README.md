@@ -124,12 +124,12 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ---
 
-## 📝 Citation (if used for research)
+## 📝 Citation
 
 ```
 @project{signspeak2025,
   author = {Lokesh},
-  title = {SIGNSPEAK-AI: A Speech-to-ASL Translation System with Gesture Animation},
+  title = {SIGNSPEAK-AI: A Real-Time Speech To Sign-Language Translation System},
   year = {2025},
   note = {GitHub repository: https://github.com/Lokeshcreator01/SIGNSPEAK-AI}
 }
