@@ -40,6 +40,8 @@ SIGNSPEAK-AI/
 └── README.md                      # You're here!
 ```
 
+📥 [Download the SIGNSPEAK-AI App](https://mega.nz/file/hvdChS6Y#uwb_ayugaqa3JwC0a9NCaxo68J6Bu7O3BSazjC-Fn3U)
+
 ---
 
 ## 🛠️ Setup Instructions
