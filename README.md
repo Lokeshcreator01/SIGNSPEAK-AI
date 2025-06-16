@@ -3,6 +3,8 @@
 
 SIGNSPEAK-AI is an intelligent system that listens to spoken English, translates it into American Sign Language (ASL) gloss, and plays corresponding gesture animations—bridging the communication gap between hearing and deaf individuals. The system combines deep learning, NLP, and gesture visualization to deliver real-time, word-level sign language translation via a mobile-friendly application.
 
+Still in Development!!!
+
 ---
 
 ## 🔍 Features
